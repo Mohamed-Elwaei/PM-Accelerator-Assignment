@@ -18,7 +18,7 @@ It fetches **live weather data** using the [Open-Meteo API](https://open-meteo.c
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/weather-next.git
+git clone https://github.com/Mohamed-Elwaei/weather-next.git
 cd weather-next
 ```
 
